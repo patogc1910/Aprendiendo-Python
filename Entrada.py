@@ -11,3 +11,11 @@ if (valor_entero): #aqui estamos pidiendo que si el valor es entero
     print("VALOR ENTERO.EXCELENTE") #aqui que imprima el valor entero,si se cumple la condicion o si el valor es entero
 else:
     print("VALOR NO ENTERO.VUELVE A INTENTAR,GRACIAS")  #aqui va imprimir si el valor no es entero, si no se cumple con la condicion si no pones un numero entero te va a salir este texto
+
+    
+    
+    
+    
+#Nombre:Jose Patricio Gomez Calderon
+#Fecha:18/092019
+#Matricula:1852897
