@@ -1,3 +1,3 @@
-ES un Repositorio para mis ejercicios de python 
+ES UN REPOSITORIO PARA MIS CODIGOS DE PYTHON Y PARA APRENDER PYTHON
 
 
