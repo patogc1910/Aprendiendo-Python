@@ -17,5 +17,5 @@ else:
     
     
 #Nombre:Jose Patricio Gomez Calderon
-#Fecha:18/092019
+#Fecha:18/09/2019
 #Matricula:1852897
