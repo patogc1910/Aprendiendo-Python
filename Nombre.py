@@ -5,8 +5,8 @@ FulName = name + " "+ lastname      # aqui estamos pidiendole que nos de el  nom
 print(FullName.upper())            #el operador.upper hace la opcion de poner todas en mayusculas por ejemplo: el nombre completo nos lo va a dar en mayusculas
 
 
-Nombre:Jose Patricio Gomez Calderon
-Fecha:20/09/2019
+# Nombre:Jose Patricio Gomez Calderon
+# Fecha:20/09/2019
 
 
 
