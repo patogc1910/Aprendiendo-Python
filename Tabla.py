@@ -1,5 +1,5 @@
 Tabla=input("Dame el Number del 0 al 10: ")  # aqui vamos a imprimir el texto , vamos a ponerle el numero que queramos
-Tabla=int(Tabla)    #en el operador int le estamos diciendo que que lo vamos a convertir en un numero entero 
+Tabla=int(Tabla)    #en el operador int le estamos diciendo que  lo vamos a convertir en un numero entero 
 
 for a in range(0 , 12):    #aqui estamos dandole un ciclo que por ejemplo nosotros ponemos el numero pero gracias a eso  el operador le esta dando escoger del 0 al 12
 
