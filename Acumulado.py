@@ -1,7 +1,7 @@
 valores=int(0)  #aqui le estamos dando la variable de o entero
 valor=str("") #aqui queremos saber que tipo de dato es float,int etcc
 
-while True:  #esta es una condicion mientras sea verdadero va a seguir cumulando numeros y si es falso ahi rompe
+while True:  #esta es una condicion mientras sea verdadero va a seguir acumulando numeros y si es falso ahi rompe
     valor=input("Pon Un Valor Entero:")
     if valor=="":
         print("INCORRECTO.GRACIAS.") #va imprimir el texto
