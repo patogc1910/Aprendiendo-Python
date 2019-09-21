@@ -7,6 +7,6 @@ for a in range(0 , 12):    #aqui estamos dandole un ciclo que por ejemplo nosotr
     print(entrada.format(Tabla,a,Tabla*a))  #gracias al .format nos da todo el texto donde esta el codigo de entrada  y nos va a imprimir el numero que escogamos gracias al input  y la maquina va a poner del 0 al 12 gracias al operador for 
     
     
-    Nombre:Jose Patricio Gomez Calderon
-    Fecha:20/09/2019
+   # Nombre:Jose Patricio Gomez Calderon
+   # Fecha:20/09/2019
     
